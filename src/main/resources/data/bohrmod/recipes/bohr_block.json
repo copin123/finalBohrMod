@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bohrmod:bohr"
+    }
+  },
+  "result": {
+    "item": "bohrmod:bohr_block",
+    "count": 1
+  },
+  "group": "bohrblocks"
+}

@@ -1,0 +1,31 @@
+#enable status effects.
+enable_statuseffects = true
+
+[Bohr]
+	#Bohr base attack damage
+	#Range: 0.0 ~ 9.99999999E8
+	attackdamage_bohr = 3.5
+	#Bohr tool durabilitty
+	#Range: 0 ~ 999999999
+	durability_bohr = 1700
+
+[Overworld]
+	#Enable that Bohr generate in every biome(Default: false).
+	every_biome = false
+
+["************* Bohr Ore Generation *************"]
+	#Set the Max  Height of the Bohr Ore (Default: 16).
+	#Range: 8 ~ 256
+	maxheight_bohr = 250
+	#Set the Count of the Bohr Ore how much can spawn per Chunk (Default: 1).
+	#Range: 1 ~ 255
+	count_bohr = 200
+	#Set the Vein Size of the Bohr Ore (Default: 8).
+	#Range: 4 ~ 255
+	veinsize_bohr = 200
+	#Set the Min Height of the Bohr Ore (Default: 0).
+	#Range: 0 ~ 256
+	minheight_bohr = 0
+	#Enable the Generation of Bohr Ore (Default: true).
+	generate_bohr = true
+

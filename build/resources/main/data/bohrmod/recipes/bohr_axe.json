@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "## ",
+    "#| ",
+    " | "
+  ],
+  "key": {
+    "#": {
+      "item": "bohrmod:bohr"
+    },
+    "|": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bohrmod:bohr_axe",
+    "count": 1
+  },
+  "group": "bohrblocks"
+}

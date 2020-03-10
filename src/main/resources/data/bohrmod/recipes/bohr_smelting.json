@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bohrmod:bohr_ite"
+  },
+  "result": "bohrmod:bohr",
+  "experience": 1.0,
+  "cookingtime": 200
+}

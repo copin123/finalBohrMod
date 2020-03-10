@@ -1,0 +1,15 @@
+{
+  "block.bohrmod.bohr_ore": "Bohr Ore",
+  "block.bohrmod.bohr_block": "Bohr Block",
+  "item.bohrmod.bohr_ite": "Bohrite",
+  "item.bohrmod.bohr": "Bohr!",
+  "item.bohrmod.bohr_axe": "Bohr Axe",
+  "item.bohrmod.bohr_pickaxe": "Bohr Pickaxe",
+  "item.bohrmod.bohr_shovel": "Bohr Shovel",
+  "item.bohrmod.bohr_hoe": "Bohr Hoe",
+  "item.bohrmod.bohr_sword": "Bohr Sword (Sharp)",
+  "item.bohrmod.bohr_helm": "Bohr Helmet",
+  "item.bohrmod.bohr_chest": "Bohr ChestPlate",
+  "item.bohrmod.bohr_legs": "Bohr Leggings",
+  "item.bohrmod.bohr_boots": "Bohr Boots"
+}

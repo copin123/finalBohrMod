@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "bohrmod:bohr_ore"
+		}
+	],
+	"result": {
+		"item": "bohrmod:bohr_ite",
+		"count": 3
+	}
+}

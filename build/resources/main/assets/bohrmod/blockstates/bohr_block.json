@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bohrmod:block/bohr_block"
+    }
+  }
+}
